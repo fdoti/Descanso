@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Descanso</string>
+    <string name="accessibility_label">Descanso — bloqueo de apps</string>
+    <string name="accessibility_description">Descanso usa este servicio para detectar cuándo abrís una app bloqueada y mostrarte la pantalla de descanso mientras dura el temporizador. No lee ni guarda el contenido de tus apps.</string>
+</resources>
